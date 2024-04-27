@@ -1,6 +1,6 @@
 Distributed	Computing	Systems	(CSCI	4780/6780)	–
-Project	4
-Consistent	Hashing-based	Naming	Service
+Project	4 Consistent	Hashing-based	Naming	Service
+
 Introduction
 In this project, you are going to implement a consistent hashing (CH)-based flat naming system.
 As we studied in the class, consistent hashing provides a lookup service for key-value pairs. The
